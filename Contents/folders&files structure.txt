@@ -1,0 +1,26 @@
+C:\Contents
+
+Contents
+|
+ ____Q1_output 
+|	|
+|	---- cListdat.data (if not present it will be created by Q1)
+|	 
+|____Q2_output
+	|
+	---- Storing all files according to campus when someone vote in Q2
+|
+|
+|____Q3_output
+	|
+	---- Combined the files from q2_output grouped by campus id (makes 2 files)
+|
+|
+|____Q4_xml
+	|
+	---- stored combined xml (combines all xmls from Q3_output) into 1
+	 
+ ---- "CandidateList" file
+ ---- "VoterList" file  
+ ---- "VotersVoted" file (can be created by itself on addition of vote in q2)
+

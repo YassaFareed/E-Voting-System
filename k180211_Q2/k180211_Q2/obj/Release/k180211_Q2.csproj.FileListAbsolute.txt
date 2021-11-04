@@ -1,0 +1,10 @@
+C:\Users\yassa\source\repos\k180211_Q2\k180211_Q2\bin\Release\k180211_Q2.exe
+C:\Users\yassa\source\repos\k180211_Q2\k180211_Q2\bin\Release\k180211_Q2.pdb
+C:\Users\yassa\source\repos\k180211_Q2\k180211_Q2\obj\Release\k180211_Q2.Form1.resources
+C:\Users\yassa\source\repos\k180211_Q2\k180211_Q2\obj\Release\k180211_Q2.Properties.Resources.resources
+C:\Users\yassa\source\repos\k180211_Q2\k180211_Q2\obj\Release\k180211_Q2.csproj.GenerateResource.cache
+C:\Users\yassa\source\repos\k180211_Q2\k180211_Q2\obj\Release\k180211_Q2.exe
+C:\Users\yassa\source\repos\k180211_Q2\k180211_Q2\obj\Release\k180211_Q2.pdb
+C:\Users\yassa\source\repos\k180211_Q2\k180211_Q2\bin\Release\k180211_Q2.exe.config
+C:\Users\yassa\source\repos\k180211_Q2\k180211_Q2\obj\Release\k180211_Q2.csprojAssemblyReference.cache
+C:\Users\yassa\source\repos\K180211_Q2\k180211_Q2\obj\Release\k180211_Q2.Form2.resources

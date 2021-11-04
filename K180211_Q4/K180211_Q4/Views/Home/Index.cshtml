@@ -1,0 +1,113 @@
+﻿@model K180211_Q4.Models.ViewModels
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style type="text/css">
+        body {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 12pt;
+        }
+
+        table {
+            border: 1px solid #000000;
+            border-collapse: collapse;
+        }
+
+            table th {
+                background-color: #ccc;
+                font-weight: bold;
+            }
+
+            table th, table td {
+                padding: 10px;
+                border: 1px solid #ccc;
+            }
+
+        .wrapper {
+            width: 50%;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+    <script type="text/javascript">
+        function load() {
+            setTimeout("window.open(self.location, '_self');", 300000);
+        }
+    </script>
+</head>
+
+
+
+<body onload="load()">
+
+    <div class="wrapper">
+        <div>
+            <table>
+                <caption><b>President</b></caption>
+                <tr>
+                    <th>Name</th>
+                    <th>Votes</th>
+                </tr>
+                @foreach (var pres in Model.President)
+                {
+
+                    <tr>
+
+                        <td>@pres.Name</td>
+                        <td>@pres.VotersCount</td>
+                    </tr>
+                }
+            </table>
+        </div>
+
+        <div>
+            <table>
+                <caption><b>Vice-President</b></caption>
+                <tr>
+                    <th>Name</th>
+                    <th>Votes</th>
+                </tr>
+                @foreach (var vpres in Model.VicePresident)
+                {
+
+                    <tr>
+
+                        <td>@vpres.Name</td>
+                        <td>@vpres.VotersCount</td>
+                    </tr>
+                }
+            </table>
+        </div>
+        <div>
+            <table>
+                <caption><b>General Secretary</b></caption>
+                <tr>
+                    <th>Name</th>
+                    <th>Votes</th>
+                </tr>
+                @foreach (var gsec in Model.GeneralSecretary)
+                {
+
+                    <tr>
+
+                        <td>@gsec.Name</td>
+                        <td>@gsec.VotersCount</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

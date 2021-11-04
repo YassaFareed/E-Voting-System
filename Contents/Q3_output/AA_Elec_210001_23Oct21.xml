@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Votes>
+  <Vote>
+    <Nic>42301-1234567-8</Nic>
+    <Position>PRES</Position>
+    <CandidateID>k050004</CandidateID>
+  </Vote>
+  <Vote>
+    <Nic>42301-1234567-8</Nic>
+    <Position>VPRE</Position>
+    <CandidateID>k071241</CandidateID>
+  </Vote>
+  <Vote>
+    <Nic>42301-1234567-8</Nic>
+    <Position>GSEC</Position>
+    <CandidateID>k030002</CandidateID>
+  </Vote>
+  <Vote>
+    <Nic>42201-3456789-0</Nic>
+    <Position>PRES</Position>
+    <CandidateID>k073000</CandidateID>
+  </Vote>
+  <Vote>
+    <Nic>42201-3456789-0</Nic>
+    <Position>VPRE</Position>
+    <CandidateID>k071241</CandidateID>
+  </Vote>
+  <Vote>
+    <Nic>42201-3456789-0</Nic>
+    <Position>GSEC</Position>
+    <CandidateID>k060123</CandidateID>
+  </Vote>
+</Votes>

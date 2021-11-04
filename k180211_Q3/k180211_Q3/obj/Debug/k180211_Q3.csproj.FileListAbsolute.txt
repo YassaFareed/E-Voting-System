@@ -1,0 +1,6 @@
+C:\Users\yassa\source\repos\new\k180211_Q3\k180211_Q3\bin\Debug\k180211_Q3.exe.config
+C:\Users\yassa\source\repos\new\k180211_Q3\k180211_Q3\bin\Debug\k180211_Q3.exe
+C:\Users\yassa\source\repos\new\k180211_Q3\k180211_Q3\bin\Debug\k180211_Q3.pdb
+C:\Users\yassa\source\repos\new\k180211_Q3\k180211_Q3\obj\Debug\k180211_Q3.csprojAssemblyReference.cache
+C:\Users\yassa\source\repos\new\k180211_Q3\k180211_Q3\obj\Debug\k180211_Q3.exe
+C:\Users\yassa\source\repos\new\k180211_Q3\k180211_Q3\obj\Debug\k180211_Q3.pdb

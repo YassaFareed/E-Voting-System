@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Votes>
+  <Vote>
+    <NIC>42201-2345678-9</NIC>
+    <Position>PRES</Position>
+    <CandidateID>k050004</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42201-2345678-9</NIC>
+    <Position>VPRE</Position>
+    <CandidateID>k071241</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42201-2345678-9</NIC>
+    <Position>GSEC</Position>
+    <CandidateID>k030001</CandidateID>
+  </Vote>
+</Votes>
